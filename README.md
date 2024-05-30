@@ -84,7 +84,7 @@ Here are a few examples of how you can use the script:
   ```shell
   python link_crawler.py -u https://example.com -p ".*" -c
   ```
-
+  
   This will clear the existing directory (if any) for the specified command and crawl the `example.com` website to collect fresh links.
 
 ## License
